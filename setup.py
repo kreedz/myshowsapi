@@ -7,7 +7,7 @@ def read(fname):
 
 
 setup(name='myshowsapi',
-      version='0.1.4',
+      version='0.1.5',
       description='API wrapper for http://api.myshows.me/',
       long_description=read('README.rst'),
       url='http://github.com/kreedz/myshowsapi',
